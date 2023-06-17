@@ -1,9 +1,9 @@
 # Data-Science-Portfolio
-## Regression Diagnostic with R
+## [Regression Diagnostic with R](https://github.com/sana1410/Data-Science-Portfolio/tree/main/Rmd%20Files)
 ### INTRODUCTION: - 
  In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset. We are also going to implement diagnostic techniques to identify and correct issues with the model. We are also going to test that our model is following the assumption of linear regression.
 
-![alt text](https://data-science-blog.com/wp-content/uploads/2022/05/linear-regression-header.png)
+![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module1%20pic4.jpg)
 
 ### LINEAR REGRESION MODEL: -
 Linear regression is a predictive analysis method used to model the relationship between a dependent variable and one or more independent variables. The basic idea behind linear regression is to find the best-fit straight line that determines the relationship between the variables.
@@ -17,12 +17,8 @@ X1, X2,X3….XN:-Predictor variables
 The Ordinary Least Squares (OLS) method is a commonly used technique in linear regression analysis. It is used to estimate the parameters (coefficients) like β0,β1 of a linear regression model that minimizes the sum of the squared differences between the predicted value and actual values of the target variable.
 #### `Residuals ε=Y(Observed)-Y(Predicted)`
 
-### ASSUMPTIONS OF LINEAR REGRESSION: -
-#### 1.Linearity of the data: - 
-The linear relationship between the predictor and the target (y) .We have assumed that there is a linear relationship between our target variables and predictor variables . This means that change in independent variable should be proportional to dependent variable.
-#### 2.Normality of residuals:- 
-The residuals should be distributed normally. This means that distribution should follow the bell curve.
-##### 3.Homogeneity of residuals variance:- 
-The residuals should have a constant variance.
-#### 4.No Multicollinearity: -
-The predictor variables should be independent of each other .
+### Exploratory Data Analysis 
+![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module%201%20Pic%202.jpg)
+![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module1%20pic3.jpg)
+### Correlation matrix
+![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module%201%20pic1.jpg)
