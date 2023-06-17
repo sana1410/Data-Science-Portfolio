@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-## Data Science Portfolio
+## Regression Diagnostic with R
 ### INTRODUCTION: - 
  In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset. We are also going to implement diagnostic techniques to identify and correct issues with the model. We are also going to test that our model is following the assumption of linear regression.
 
