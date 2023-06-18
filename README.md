@@ -9,7 +9,7 @@ Technical Skills : Python , R , SQL ,Tableau
 * Implemented diagnostic techniques to identify and correct issues with the model like multicollinearity and presence of outliers.
 
 ![](Images/Module1 pic4.jpg)
-## [GLM and Logistic Regression with R](https://github.com/sana1410/Data-Science-Portfolio/tree/main/GLM%20and%20Logistic%20Regression)
+## [GLM and Logistic Regression with R](https://sana1410.github.io/R-Projects/)
 The objective of this project is use "college dataset" from ISLR library to build a logistic regression model to predict whether a university is private or public.
 * Performed Exploratory Data analysis and Descriptive analysis on dataset.
 * Data preparation for modelling that included spitting the dataset into train and test data.
