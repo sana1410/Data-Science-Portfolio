@@ -3,7 +3,7 @@
 ### INTRODUCTION: - 
  In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset. We are also going to implement diagnostic techniques to identify and correct issues with the model. We are also going to test that our model is following the assumption of linear regression.
 
-![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module1%20pic4.jpg)
+![](Images/Module1 pic4.jpg)
 
 ### LINEAR REGRESION MODEL: -
 Linear regression is a predictive analysis method used to model the relationship between a dependent variable and one or more independent variables. The basic idea behind linear regression is to find the best-fit straight line that determines the relationship between the variables.
