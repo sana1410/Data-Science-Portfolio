@@ -1,6 +1,6 @@
 # Data Science Portfolio
 Technical Skills : Python , R , SQL ,Tableau 
-## [Regression Diagnostic with R](https://github.com/sana1410/Data-Science-Portfolio/tree/main/Linear%20Regression)
+## [Regression Diagnostic with R](https://sana1410.github.io/R-Projects/)
 * In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset.
 * Performed Exploratory Data analysis and descriptive statistics to describe data.
 * Performed Data cleaning by imputing missing values with zero.
