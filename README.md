@@ -1,24 +1,20 @@
-# Data-Science-Portfolio
-## [Regression Diagnostic with R](https://github.com/sana1410/Data-Science-Portfolio/tree/main/Rmd%20Files)
-### INTRODUCTION: - 
- In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset. We are also going to implement diagnostic techniques to identify and correct issues with the model. We are also going to test that our model is following the assumption of linear regression.
+# Data Science Portfolio
+Technical Skills : Python , R , SQL ,Tableau 
+## [Regression Diagnostic with R](https://github.com/sana1410/Data-Science-Portfolio/tree/main/Linear%20Regression)
+1.In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset.
+2.Performed Exploratory Data analysis and descriptive statistics to describe data.
+3.Performed Data cleaning by imputing missing values with zero.
+4.Created correlation matrix and plots to find highly correlated variables.
+5.Performed Linear regression and model interpretation using diagnostic plots.
+6.Implemented diagnostic techniques to identify and correct issues with the model like multicollinearity and presence of outliers.
 
 ![](Images/Module1 pic4.jpg)
-
-### LINEAR REGRESION MODEL: -
-Linear regression is a predictive analysis method used to model the relationship between a dependent variable and one or more independent variables. The basic idea behind linear regression is to find the best-fit straight line that determines the relationship between the variables.
-A linear regression model can be written as 
-#### `Y=βo+β1X1+β2X2+β3X3+…….βNXN +ε`
-where Y=target variable
-X1, X2,X3….XN:-Predictor variables 
-β0 is intercept, β1,β2,β3….βN are coefficients and ε<- it is the error
-  
-### ORDINARY LEAST SQUARE METHOD:-
-The Ordinary Least Squares (OLS) method is a commonly used technique in linear regression analysis. It is used to estimate the parameters (coefficients) like β0,β1 of a linear regression model that minimizes the sum of the squared differences between the predicted value and actual values of the target variable.
-#### `Residuals ε=Y(Observed)-Y(Predicted)`
-
-### Exploratory Data Analysis 
-![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module%201%20Pic%202.jpg)
-![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module1%20pic3.jpg)
-### Correlation matrix
-![](https://github.com/sana1410/Data-Science-Portfolio/blob/main/Images/Module%201%20pic1.jpg)
+## [GLM and Logistic Regression with R](https://github.com/sana1410/Data-Science-Portfolio/tree/main/GLM%20and%20Logistic%20Regression)
+The objective of this project is use "college dataset" from ISLR library to build a logistic regression model to predict whether a university is private or public.
+1.Performed Exploratory Data analysis and Descriptive analysis on dataset.
+2.Data preparation for modelling that included spitting the dataset into train and test data.
+3.Fit logistic regression model using glm() function in R.
+4.Created confusion matrix for both train and test datasets.
+5.Calculated and interpreted model metrics like Accuracy,Recall , Specificity and Precision for both Train and test datasets.
+6.Plot and interpret ROC curve and AUC for both test and train datasets .
+![](Images/Module 3 pic.jpg)
