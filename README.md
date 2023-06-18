@@ -17,3 +17,5 @@ The objective of this project is use "college dataset" from ISLR library to buil
 * Created confusion matrix for both train and test datasets.
 * Calculated and interpreted model metrics like Accuracy,Recall , Specificity and Precision for both Train and test datasets.
 * Plot and interpret ROC curve and AUC for both test and train datasets .
+![](Images/Module 3 formula.jpg)
+(Images/Module 3 pic.jpg)
