@@ -20,3 +20,10 @@ The objective of this project is use "college dataset" from ISLR library to buil
 ![](Images/Module 3 formula.jpg)
 
 ![](Images/Module 3 pic.jpg)
+## Beijing Multi-Site Air-Quality Prediction
+In this Project, we are going to perform linear regression to predict the air quality using data which we have taken from ![Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip).
+* Performed Exploratory Data Analysis using the dataset.
+* Performed Data cleaning by removing the null values in dataset.
+* Fitting linear regression model using sklearn.linear_model and interpreting the model.
+* Evaluated and tested the model using RMSE values.
+![](Images/Pic 5.png)
