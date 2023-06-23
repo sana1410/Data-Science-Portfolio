@@ -28,3 +28,9 @@ In this Project, we are going to perform linear regression to predict the air qu
 * Evaluated and tested the model using RMSE values.
   
 ![](Images/Pic 5.png)
+## [CRIME DASHBOARD using Tableau](https://github.com/sana1410/Tableau-Dashboards?search=1)
+*Hands on experience on Tableau Desktop 2023.1.2 , Tableau public, Tableau Reader and Tableau Server.
+*Produced attractive visuals/dashboards to convey the story inside the data
+* Build dashboards using techniques for guided analytics, interactive dashboard design and visual best practices.
+* Created different KPIs using calculated key figures and parameters.
+![](Images/Dashboard 1.jpg)
