@@ -1,36 +1,22 @@
-# Data Science Portfolio
-Technical Skills : Python , R , SQL ,Tableau 
-## [Regression Diagnostic with R](https://sana1410.github.io/R-Projects/)
-* In this project we are going to fit, interpret and evaluate linear regression model on “AmesHousing” dataset.
-* Performed Exploratory Data analysis and descriptive statistics to describe data.
-* Performed Data cleaning by imputing missing values with zero.
-* Created correlation matrix and plots to find highly correlated variables.
-* Performed Linear regression and model interpretation using diagnostic plots.
-* Implemented diagnostic techniques to identify and correct issues with the model like multicollinearity and presence of outliers.
+# About Me
+I am a graduate student doing my masters in Masters in professional studies in Analytics at Northeastern University ,Boston , with special focus on Applied Machine Intelligence.
 
-![](Images/Module1 pic4.jpg)
-## [GLM and Logistic Regression with R](https://sana1410.github.io/R-Projects/)
-The objective of this project is use "college dataset" from ISLR library to build a logistic regression model to predict whether a university is private or public.
-* Performed Exploratory Data analysis and Descriptive analysis on dataset.
-* Data preparation for modelling that included spitting the dataset into train and test data.
-* Fit logistic regression model using glm() function in R.
-* Created confusion matrix for both train and test datasets.
-* Calculated and interpreted model metrics like Accuracy,Recall , Specificity and Precision for both Train and test datasets.
-* Plot and interpret ROC curve and AUC for both test and train datasets .
-![](Images/Module 3 formula.jpg)
+I have prior experience as an accomplished Data Analyst with 7 years of expertise in data visualization, mining, process validation, and business analysis. Proficient in translating customer requirements into effective project plans, dedicated and passionate about Big Data.
 
-![](Images/Module 3 pic.jpg)
-## [Beijing Multi-Site Air-Quality Prediction using python](https://sana1410.github.io/Python-Projects/)
-In this Project, we are going to perform linear regression to predict the air quality using data which we have taken from [Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip).
-* Performed Exploratory Data Analysis using the dataset.
-* Performed Data cleaning by removing the null values in dataset.
-* Fitting linear regression model using `sklearn.linear_model` and interpreting the model.
-* Evaluated and tested the model using RMSE values.
-  
-![](Images/Pic 5.png)
-## [CRIME DASHBOARD using Tableau](https://github.com/sana1410/Tableau-Dashboards?search=1)
-* Hands on experience on Tableau Desktop 2023.1.2 , Tableau public, Tableau Reader and Tableau Server.
-* Produced attractive visuals/dashboards to convey the story inside the data
-* Build dashboards using techniques for guided analytics, interactive dashboard design and visual best practices.
-* Created different KPIs using calculated key figures and parameters.
-![](Images/Dashboard 1.jpg)
+I am passionate about working with projects involving Data science modelling, Machine learning , Deep learning and Computer Vision.
+## My Technical Skills : 
+* 1.Data Science
+* 2.Machine Learning 
+* 3.Time Series Forecasting 
+* 4.Regression Analysis
+* 5.Deep learnig 
+* 6.Image and Video Analysis
+## Projects :-
+# [Coronary Heart Risk Study](https://sana1410.github.io/R-Projects/)
+The goal of this project was to analyze risk factors for coronary heart disease using machine learning techniques.
+# [Credit Risk Default Prediction](https://sana1410.github.io/R-Projects/)
+The goal of this project is to assess credit card transaction and customer data for predicting credit default risk and identifying varying risk levels among customer groups.
+# [Crab Age Prediction](https://sana1410.github.io/Python-Projects/)
+The goal of this project is to determine optimal crab age which is crucial for cost-effective harvesting and increased profits by developing a regression model for accurate age prediction. 
+
+
