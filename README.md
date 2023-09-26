@@ -16,7 +16,7 @@ I am passionate about working with projects involving Data science modelling, Ma
 The goal of this project was to analyze risk factors for coronary heart disease using machine learning techniques.
 # [Credit Risk Default Prediction](https://sana1410.github.io/R-Projects/)
 The goal of this project is to assess credit card transaction and customer data for predicting credit default risk and identifying varying risk levels among customer groups.
-# [Crab Age Prediction](https://github.com/sana1410/Regression-Analysis)
+# [Crab Age Prediction](https://sana1410.github.io/Regression-Analysis/)
 The goal of this project is to determine optimal crab age which is crucial for cost-effective harvesting and increased profits by developing a regression model for accurate age prediction. 
 
 
